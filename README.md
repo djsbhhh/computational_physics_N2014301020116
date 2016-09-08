@@ -1,4 +1,4 @@
-# Compuational_physics_N2014301020116
+# Computational_physics_N2014301020116
 
 **Presented by DJsbhhh**
 
