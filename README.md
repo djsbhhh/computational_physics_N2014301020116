@@ -4,11 +4,11 @@
 
 Assignments of compuational physics.
 
-![](http://bzpic.com/image/1920x1200/youxi/201509/23/5185385ca76.jpg)
+![Ezreal](http://bzpic.com/image/1920x1200/youxi/201509/23/5185385ca76.jpg)
 **Time for a true display of skill!!**
 
 ##Homework list
-- [x] [Exercise_01: Hi, world!]()
+- [x] [Exercise_01: Hi, world!](https://github.com/djsbhhh/computational_physics_N2014301020116)
 - [ ] [Exercise_02:]()
 
 ## 2013材料班 (I copied this from your page. :D)
