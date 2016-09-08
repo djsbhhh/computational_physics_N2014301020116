@@ -7,9 +7,9 @@ Assignments of compuational physics.
 ![](http://bzpic.com/image/1920x1200/youxi/201509/23/5185385ca76.jpg)
 **Time for a true display of skill!!**
 
-##Homewrok list (In fact, nothing.)
-[Exercise_01:](http://)
-[Exercise_02:](http://)
+##Homework list
+- [x] [Exercise_01: Hi, world!]()
+- [ ] [Exercise_02:]()
 
 ## 2013材料班 (I copied this from your page. :D)
 1. [夏海峰2013301020094](https://github.com/supermanvista/Computional_Physics_2013301020094.git)
