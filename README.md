@@ -8,7 +8,7 @@ Assignments of compuational physics.
 **Time for a true display of skill!!**
 
 ##Homework list
-- [x] [Exercise_01: Hi, GitHub!](https://github.com/djsbhhh/computational_physics_N2014301020116)
+- [x] [Exercise_01: Hi, GitHub!](https://github.com/djsbhhh/computational_physics_N2014301020116/blob/master/Exercise/Exercise_01.md)
 - [ ] [Exercise_02:]()
 
 ## 2013材料班
