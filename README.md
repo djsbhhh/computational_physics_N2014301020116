@@ -4,7 +4,7 @@
 
 Assignments of compuational physics.
 
-![Ezreal](http://bzpic.com/image/1920x1200/youxi/201509/23/5185385ca76.jpg)
+![Ezreal]()
 ***Time for a true display of skill!!!***
 
 ##Homework list
