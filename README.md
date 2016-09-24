@@ -9,4 +9,4 @@ Assignments of compuational physics.
 
 ##Homework list
 - [x] [Exercise_01: Hi, GitHub!](https://github.com/djsbhhh/computational_physics_N2014301020116/blob/master/Exercise/Exercise_01:%20Hi,%20GitHub!.md)
-- [x] [Exercise_02: Hermit! Hermite! HERMITEE!](https://github.com/djsbhhh/computational_physics_N2014301020116/blob/master/Exercise/Exercise_02:%20HERMITEE!)
+- [x] [Exercise_02: HERMITEE!](https://github.com/djsbhhh/computational_physics_N2014301020116/blob/master/Exercise/Exercise_02:%20HERMITEE!)
