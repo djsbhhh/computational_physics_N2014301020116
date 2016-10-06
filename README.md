@@ -11,4 +11,4 @@ Assignments of compuational physics.
 - [x] [Exercise_01: Hi, GitHub!](https://github.com/djsbhhh/computational_physics_N2014301020116/blob/master/Exercise/Exercise_01:%20Hi,%20GitHub!.md)
 - [x] [Exercise_02: HERMITEE!](https://github.com/djsbhhh/computational_physics_N2014301020116/blob/master/Exercise/Exercise_02:%20HERMITEE!)
 - [x] [Exercise_03: The name is moving!](https://www.zybuluo.com/djsbhhh/note/512345)
-- [x] [Exercise_04: Nuclear decay(p16 1.5)](https://www.zybuluo.com/djsbhhh/note/522335)
+- [x] [Exercise_04: Nuclear decay.(p16 1.5)](https://www.zybuluo.com/djsbhhh/note/522335)
