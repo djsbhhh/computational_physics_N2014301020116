@@ -14,3 +14,4 @@ Assignments of compuational physics.
 - [x] [Exercise_04: Nuclear decay.(p16 1.5)](https://www.zybuluo.com/djsbhhh/note/522335)
 - [x] [Exercise_05: Cannon shell.(p31 2.9)](https://www.zybuluo.com/djsbhhh/note/533383)
 - [x] [Exercise_06: Cannon shell with frontal resistance.(p31 2.10)](https://www.zybuluo.com/djsbhhh/note/542368)
+- [ ] [Exercise_07: Chaos.(P65)](https://www.zybuluo.com/djsbhhh/note/550031)
