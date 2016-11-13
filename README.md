@@ -15,3 +15,4 @@ Assignments of compuational physics.
 - [x] [Exercise_05: Cannon shell.(p31 2.9)](https://www.zybu�luo.com/djsbhhh/note/533383)
 - [x] [Exercise_06: Cannon shell with frontal resistance.(p31 2.10)](https://www.zybuluo.com/djsbhhh/note/542368)
 - [x] [Exercise_07: Chaos.(P65 3.13-14)](https://www.zybuluo.com/djsbhhh/note/550031)
+- [x] [Exercise_08:(P70 3.18-21)](https://www.zybuluo.com/djsbhhh/note/565906)
