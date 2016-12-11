@@ -19,3 +19,4 @@ Assignments of compuational physics.
 - [x] [Exercise_09: Bouncing ball.(P88 3.30-32)](https://www.zybuluo.com/djsbhhh/note/573534)
 - [x] [Exercise_10: Apsidal precession.(P113 4.10)](https://www.zybuluo.com/djsbhhh/note/581368)
 - [x] [Exercise_11: Hyperion.(P128 4.20)](https://www.zybuluo.com/djsbhhh/note/589837)
+- [x] [Exercise_12: Eletric potential.(P143 5.3, 5.7)](https://www.zybuluo.com/djsbhhh/note/597781)
